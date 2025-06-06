@@ -66,10 +66,12 @@ Additionally, the comparative analysis of airlines showed that **FL** and **AS**
 ---
 
 ## File Structure
-├── Assignment2_P146399.ipynb # Main Jupyter Notebook for the entire analysis
-├── README.md # Project documentation
+.
+├── Assignment2_P146399.ipynb     # Main Jupyter Notebook for the entire analysis
+├── README.md                     # Project documentation
 └── images/
-└── airplane.png 
+    └── airplane.png              
+
 
 ---
 
