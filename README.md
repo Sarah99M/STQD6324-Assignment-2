@@ -65,15 +65,15 @@ Additionally, the comparative analysis of airlines showed that **FL** and **AS**
 
 ---
 
-## 📁 File Structure
+## File Structure
 ├── Assignment2_P146399.ipynb # Main Jupyter Notebook for the entire analysis
-├── README.md # Project documentation 
+├── README.md # Project documentation
 └── images/
-    └── airplane.png
+└── airplane.png 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 This analysis is based on the **Airline On-Time Performance Dataset**, which contains information about flight schedules, delays, cancellations, and airlines.
 
