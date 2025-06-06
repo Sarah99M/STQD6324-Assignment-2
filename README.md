@@ -36,23 +36,18 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 
 ### 4. Problematic Route Analysis
 - Identified routes with more than 50 flights and the highest average arrival delays.
-- Many problematic routes were connected to **Newark Airport (EWR)**, indicating operational or congestion issues.
+- Many problematic routes were connected to **EWR**, indicating operational or congestion issues.
 
-### 5. Carrier Performance Evaluation
-- Compared airlines by flight volume and average delay time.
-- **AirTran (FL)** and **Alaska Airlines (AS)** had the longest average delays; **Hawaiian Airlines (HA)** performed best.
-
-### 6. Problematic Flight Numbers
-- Ranked individual flight numbers by frequency and delay.
-- Highlighted high-risk flights for operational improvement and passenger awareness.
 
 ---
 
 ## Conclusion
 
-- Flight delays and cancellations exhibit **clear patterns** across **time, location, and carriers**.
-- **Certain airports (e.g., EWR) and routes consistently underperform**, pointing to structural bottlenecks.
-- **Morning flights and spring travel are generally more reliable**, while **midnight flights and winter months pose higher risks**.
+This time, the reasons for flight delays were systematically analyzed based on U.S. domestic flight operation data from 2005, covering the dimensions of **delay patterns, delay causes, cancellation behaviors, and identification of problematic routes and airlines**. The project utilized **Hive** for large-scale SQL queries, in combination with **Jupyter Notebook**, **Pandas**, and visualization tools to complete data cleaning, transformation, and chart generation, forming a complete data analysis pipeline.
+
+The analysis revealed that **flight delays exhibit clear temporal patterns**: early morning departures, summer months, and Thursdays show relatively higher average delays, while flights in the **morning, spring/fall seasons, and Saturdays** are generally more punctual. **Cancellations are most frequent in winter and the first quarter**, indicating strong seasonal effects. Route analysis identified several **problematic routes** with average delays exceeding 30 minutes — particularly those connected to **EWR** — suggesting congestion or operational bottlenecks at that location.
+
+Additionally, the comparative analysis of airlines showed that **FL** and **AS** have significantly higher average delays, while ** HA** demonstrated outstanding punctuality. Overall, **flight delays and cancellations display structural differences across time, route, carrier, and airport dimensions**. This project not only deepened the understanding of operational complexity in the aviation industry, but also validated the practical value of **data analytics tools in air transport management and decision-making**.
 
 ---
 
@@ -73,3 +68,14 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 ## 📁 File Structure
 ├── Assignment2_P146399.ipynb # Main Jupyter Notebook for the entire analysis
 ├── README.md # Project documentation 
+└── images/
+    └── airplane.png
+
+---
+
+## Author Info
+
+- **Name:** MAO JINLIN
+- **Course:** STQD6324 Data Management
+- **Year:** 2025
+- **Institution:** Univerdity Kebangsaan Malaysia
