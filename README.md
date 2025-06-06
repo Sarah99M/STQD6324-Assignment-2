@@ -1,15 +1,15 @@
 # STQD6324-Assignment-2
-![Airline Delay Analysis](images/airline_banner.png)
+![Airline Delay Analysis](E:/UKM/Semester2/STQD6324/Assignment2/airplane.png)
 
-# ✈️ Airline On-Time Performance Analysis (2005)
+# Airline On-Time Performance Analysis (2005)
 
-## 📌 Overview
+## Overview
 
 This project analyzes U.S. domestic flight operations in the year 2005, focusing on **flight delays, cancellations, and route reliability**. Using Hive and Jupyter Notebook, the analysis extracts, cleans, and visualizes large-scale airline data to uncover operational inefficiencies and support decision-making for both airlines and passengers.
 
 ---
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Hive SQL** – for scalable querying of large datasets
 - **Jupyter Notebook** – for interactive analysis and visualization
@@ -20,7 +20,7 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 
 ---
 
-## 📊 Key Analytical Sections
+## Key Analytical Sections
 
 ### 1. Delay Pattern Analysis
 - Explored average arrival delays by time of day, weekday, month, and season.
@@ -48,7 +48,7 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 
 ---
 
-## 🧠 Key Findings
+## Conclusion
 
 - Flight delays and cancellations exhibit **clear patterns** across **time, location, and carriers**.
 - **Certain airports (e.g., EWR) and routes consistently underperform**, pointing to structural bottlenecks.
@@ -56,7 +56,7 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 
 ---
 
-## ✅ Recommendations
+## Recommendations
 
 ### For Airlines:
 - Optimize schedules for **early morning and winter flights**
@@ -71,4 +71,5 @@ This project analyzes U.S. domestic flight operations in the year 2005, focusing
 ---
 
 ## 📁 File Structure
-
+├── Assignment2_P146399.ipynb # Main Jupyter Notebook for the entire analysis
+├── README.md # Project documentation 
