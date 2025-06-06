@@ -1,5 +1,5 @@
 # STQD6324-Assignment-2
-![Airline Delay Analysis](E:/UKM/Semester2/STQD6324/Assignment2/airplane.png)
+![Airline Delay Analysis](image/airplane.png)
 
 # Airline On-Time Performance Analysis (2005)
 
